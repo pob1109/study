@@ -28,8 +28,13 @@ nav a{
     text-decoration: none;
     color:white;
 }
-
 .profile{
+    width: 320px;
+    height: 320px;
+    overflow: hidden;
+}
+
+.profile img{
     width: 320px;
     height: 320px;
     overflow: hidden;
